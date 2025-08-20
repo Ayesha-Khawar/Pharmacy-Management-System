@@ -4,7 +4,7 @@
 - The system starts with a **login form**.  
 - After successful login, the user is redirected to the **Main Menu**.  
 
-![Login Screen](login.jpg)
+![Login Screen](img/login.jpg)
 
 ---
 
@@ -16,12 +16,12 @@
   - **Sales & Billing**  
 - Includes a **Logout option** for secure exit.  
 
-![Main Menu](main-menu.jpg)  
-![Main Menu - Prescriptions](main-menu2.jpg)  
-![Main Menu - Sales](main-menu3.jpg)  
-![Main Menu - Inventory](main-menu4.jpg)  
-![Main Menu - Customer](main-menu5.jpg)  
-![Logout](main-menu-logout.jpg)  
+![Main Menu](img/main-menu.jpg)  
+![Main Menu - Prescriptions](img/main-menu2.jpg)  
+![Main Menu - Sales](img/main-menu3.jpg)  
+![Main Menu - Inventory](img/main-menu4.jpg)  
+![Main Menu - Customer](img/main-menu5.jpg)  
+![Logout](img/main-menu-logout.jpg)  
 
 ---
 
@@ -31,7 +31,7 @@
 - Add, update, delete, and search customers.  
 - Customer data is linked to prescriptions.  
 
-![Deleting Customer](deleting-cust-record.jpg)
+![Deleting Customer](img/deleting-cust-record.jpg)
 
 ---
 
@@ -39,8 +39,8 @@
 - Manage stock (insert/update/delete/search).  
 - Medicines are directly connected to sales and prescriptions.  
 
-![Add Medicine](adding-medicines-record.jpg)  
-![View Medicines Stock](viewing-medicines-stock.jpg)
+![Add Medicine](img/adding-medicines-record.jpg)  
+![View Medicines Stock](img/viewing-medicines-stock.jpg)
 
 ---
 
@@ -55,7 +55,7 @@
 #### 💵 Sales Module  
 - Handles medicine selling, updates inventory in real time, and stores billing records.  
 
-![Make Sale](sale-making.jpg)
+![Make Sale](img/sale-making.jpg)
 
 ---
 
@@ -63,4 +63,4 @@
 - Real-time stock monitoring.  
 - Allows searching medicines and viewing available quantities.  
 
-![Search Inventory](viewing-searching-inventory.jpg)
+![Search Inventory](img/viewing-searching-inventory.jpg)
