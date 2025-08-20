@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|c:\\users\\pmls\\desktop\\all-bs-projects\\bscs\\pharmacy\\pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\searchcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\searchcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\saleCLASS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\saleCLASS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ViewPrescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\ViewPrescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Prescriptionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\Prescriptionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\deleteprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\deleteprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\DeleteMed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\DeleteMed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\deletemed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\deletemed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\EditMed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\EditMed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\editmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\editmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\addMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\Medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\PharmacyUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\PharmacyUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\DBConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\DBConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ManageInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\ManageInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addCust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\addCust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\addcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\addcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\deleteCust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\deleteCust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\deletecust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\deletecust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\editMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\editMedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\searchCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\searchCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ShowInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\ShowInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\showinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\showinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Prescriptionn.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\Prescriptionn.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\customerCLASS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\customerCLASS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\EditCust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\EditCust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\editcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\editcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\showsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\showsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\showsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\showsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\pharmacy\\viewprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\viewprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\medicineCLASS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA7ED8-AFD0-498F-BEDC-435D25F0223F}|Pharmacy\\Pharmacy.csproj|solutionrelative:Pharmacy\\medicineCLASS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "searchCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\searchCustomer.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\searchCustomer.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\searchCustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\searchCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\MainMenu.cs",
+              "RelativeToolTip": "Pharmacy\\MainMenu.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAMwFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "saleCLASS.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\saleCLASS.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\saleCLASS.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\saleCLASS.cs",
+              "RelativeToolTip": "Pharmacy\\saleCLASS.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewPrescription.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ViewPrescription.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\ViewPrescription.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ViewPrescription.cs",
+              "RelativeToolTip": "Pharmacy\\ViewPrescription.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prescriptionn.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Prescriptionn.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Prescriptionn.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Prescriptionn.cs",
+              "RelativeToolTip": "Pharmacy\\Prescriptionn.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeletePrescription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\DeletePrescription.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\DeletePrescription.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\DeletePrescription.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\DeletePrescription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteMed.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\DeleteMed.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\DeleteMed.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\DeleteMed.cs",
+              "RelativeToolTip": "Pharmacy\\DeleteMed.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteMed.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\DeleteMed.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\DeleteMed.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\DeleteMed.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\DeleteMed.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditMed.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\EditMed.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\EditMed.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\EditMed.cs",
+              "RelativeToolTip": "Pharmacy\\EditMed.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditMed.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\EditMed.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\EditMed.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\EditMed.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\EditMed.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addMedicine.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\addMedicine.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addMedicine.cs",
+              "RelativeToolTip": "Pharmacy\\addMedicine.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "addMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addMedicine.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\addMedicine.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\addMedicine.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\addMedicine.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Medicine.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Medicine.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Medicine.cs",
+              "RelativeToolTip": "Pharmacy\\Medicine.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Medicine.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Medicine.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\Medicine.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PharmacyUser.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\PharmacyUser.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PharmacyUser.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\PharmacyUser.cs",
+              "RelativeToolTip": "Pharmacy\\PharmacyUser.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\DBConnection.cs",
+              "RelativeToolTip": "Pharmacy\\DBConnection.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageInventory.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ManageInventory.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\ManageInventory.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ManageInventory.cs",
+              "RelativeToolTip": "Pharmacy\\ManageInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "addCust.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addCust.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\addCust.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addCust.cs",
+              "RelativeToolTip": "Pharmacy\\addCust.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "addCust.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addCust.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\addCust.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\addCust.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\addCust.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Customer.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Customer.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Customer.cs",
+              "RelativeToolTip": "Pharmacy\\Customer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "deleteCust.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\deleteCust.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\deleteCust.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\deleteCust.cs",
+              "RelativeToolTip": "Pharmacy\\deleteCust.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "deleteCust.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\deleteCust.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\deleteCust.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\deleteCust.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\deleteCust.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "editMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\editMedicine.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\editMedicine.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\editMedicine.cs",
+              "RelativeToolTip": "Pharmacy\\editMedicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "searchCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\searchCustomer.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\searchCustomer.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\searchCustomer.cs",
+              "RelativeToolTip": "Pharmacy\\searchCustomer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShowInventory.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ShowInventory.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\ShowInventory.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ShowInventory.cs",
+              "RelativeToolTip": "Pharmacy\\ShowInventory.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwCgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShowInventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ShowInventory.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\ShowInventory.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\ShowInventory.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\ShowInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Prescriptionn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Prescriptionn.Designer.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Prescriptionn.Designer.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Prescriptionn.Designer.cs",
+              "RelativeToolTip": "Pharmacy\\Prescriptionn.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Customer.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Customer.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\Customer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "customerCLASS.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\customerCLASS.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\customerCLASS.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\customerCLASS.cs",
+              "RelativeToolTip": "Pharmacy\\customerCLASS.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAJgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditCust.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\EditCust.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\EditCust.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\EditCust.cs",
+              "RelativeToolTip": "Pharmacy\\EditCust.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditCust.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\EditCust.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\EditCust.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\EditCust.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\EditCust.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Form1.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Form1.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Form1.cs",
+              "RelativeToolTip": "Pharmacy\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Form1.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Form1.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\Form1.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\MainMenu.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\MainMenu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "showsales.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\showsales.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\showsales.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\showsales.cs",
+              "RelativeToolTip": "Pharmacy\\showsales.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "showsales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\showsales.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\showsales.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\showsales.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\showsales.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ViewPrescription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\ViewPrescription.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\ViewPrescription.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Pharmacy\\Pharmacy\\ViewPrescription.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\Pharmacy\\Pharmacy\\ViewPrescription.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-19T20:05:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "medicineCLASS.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\medicineCLASS.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\medicineCLASS.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\ALL-BS-PROJECTS\\BSCS\\Pharmacy\\Pharmacy\\medicineCLASS.cs",
+              "RelativeToolTip": "Pharmacy\\medicineCLASS.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:05:17.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
