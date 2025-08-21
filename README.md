@@ -1,4 +1,4 @@
-## 🔑 System Workflow  
+##  System Workflow  
 
 ### 1. Authentication & Access Control  
 - The system starts with a **login form**.  
@@ -27,7 +27,7 @@
 
 ### 3. Modules Workflow  
 
-#### 🧑‍🤝‍🧑 Customer Module  
+####  Customer Module  
 - Add, update, delete, and search customers.  
 - Customer data is linked to prescriptions.  
 
@@ -35,7 +35,7 @@
 
 ---
 
-#### 💊 Medicine Module  
+####  Medicine Module  
 - Manage stock (insert/update/delete/search).  
 - Medicines are directly connected to sales and prescriptions.  
 
@@ -44,7 +44,7 @@
 
 ---
 
-#### 📑 Prescription Module  
+####  Prescription Module  
 - Handles prescriptions linked with **customers** and **medicines**.  
 - Supports adding, deleting, and viewing prescriptions.  
 
@@ -52,7 +52,7 @@
 
 ---
 
-#### 💵 Sales Module  
+####  Sales Module  
 - Handles medicine selling, updates inventory in real time, and stores billing records.  
 
 ![Make Sale](img/sale-making.jpg)
